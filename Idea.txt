@@ -1,0 +1,9 @@
+1. Build an AI-driven phishing and deepfake detection browser extension that scans incoming web forms, emails, and media in real time to warn users of social engineering threats.
+
+
+2. Exam Predictor 
+
+3. Quiz Maker Shareable link is generate 
+
+4. A Complain Filer :- especially for Students of School, college 
+in india there is two much curruption in this students can put complains  and {USP :- Identity is Anonymus} 
